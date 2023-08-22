@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Piyushoberoy/CODSOFT/assets/68097992/cf49bd01-6260-4056-bcf5-06d23ea76908">
+</p>
 ![CODSOFT](https://github.com/Piyushoberoy/CODSOFT/assets/68097992/cf49bd01-6260-4056-bcf5-06d23ea76908)
 # CODSOFT Internship Projects
 
