@@ -1,7 +1,6 @@
 <p align="center">
   <img width="460" height="300" src="https://github.com/Piyushoberoy/CODSOFT/assets/68097992/cf49bd01-6260-4056-bcf5-06d23ea76908">
 </p>
-![CODSOFT](https://github.com/Piyushoberoy/CODSOFT/assets/68097992/cf49bd01-6260-4056-bcf5-06d23ea76908)
 # CODSOFT Internship Projects
 
 Welcome to the CODSOFT repository! This repository showcases the projects I completed during my internship at CODSOFT. I worked on three impactful projects: Titanic Survival Prediction, Movie Rating Prediction with Python, and Credit Card Fraud Detection. Each project encompassed a range of tasks such as data analysis, visualization, prediction, preprocessing, and more. Below is a comprehensive overview of each project and the tasks I undertook.
