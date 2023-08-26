@@ -37,18 +37,18 @@ This project aimed to predict movie ratings based on various features using Pyth
 
 ## Project 3: Iris Flower Classification Project
 
-## Description
+### Description
 This project involves the classification of different species of iris flowers using machine learning algorithms, with a specific focus on utilizing Logistic Regression as the primary model.
 
-## Tasks Undertaken
-1. **Data Understanding:** Explored the iris dataset to understand the distribution and characteristics of its features.
-2. **Data Preprocessing:** Handled any missing values, normalized features where necessary, and identified potential outliers.
-3. **Data Visualization:** Visualized the characteristics of the iris flowers, the distribution of different species, and potential relationships between features.
-4. **Feature Engineering:** Derived additional features, such as petal area or sepal ratio, to potentially enhance the predictive power of the model.
-5. **Model Selection:** Opted for Logistic Regression as the core classification algorithm since it provides an accuracy of 97%.
-6. **Model Training and Tuning:** Trained the Logistic Regression model, fine-tuned hyperparameters, and iterated to achieve optimal results.
-7. **Model Evaluation:** Assessed the Logistic Regression model's performance using relevant metrics, including accuracy, precision, recall, F1-score, and ROC-AUC where applicable.
-8. **Model Interpretation:** Analyzed the importance of different features within the Logistic Regression model, elucidating their contribution to classifying iris flower species.
+### Tasks Undertaken
+- Data Understanding: Explored the iris dataset to understand the distribution and characteristics of its features.
+- Data Preprocessing: Handled any missing values, normalized features where necessary, and identified potential outliers.
+- Data Visualization: Visualized the characteristics of the iris flowers, the distribution of different species, and potential relationships between features.
+- Feature Engineering: Derived additional features, such as petal area or sepal ratio, to potentially enhance the predictive power of the model.
+- Model Selection: Opted for Logistic Regression as the core classification algorithm since it provides an accuracy of 97%.
+- Model Training and Tuning: Trained the Logistic Regression model, fine-tuned hyperparameters, and iterated to achieve optimal results.
+- Model Evaluation: Assessed the Logistic Regression model's performance using relevant metrics, including accuracy, precision, recall, F1-score, and ROC-AUC where applicable.
+- Model Interpretation: Analyzed the importance of different features within the Logistic Regression model, elucidating their contribution to classifying iris flower species.
 
 ## Conclusion
 
