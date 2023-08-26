@@ -4,7 +4,7 @@
 
 # CODSOFT Internship Projects
 
-Welcome to the CODSOFT repository! This repository showcases the projects I completed during my internship at CODSOFT. I worked on three impactful projects: Titanic Survival Prediction, Movie Rating Prediction with Python, and Credit Card Fraud Detection. Each project encompassed a range of tasks such as data analysis, visualization, prediction, preprocessing, and more. Below is a comprehensive overview of each project and the tasks I undertook.
+Welcome to the CODSOFT repository! This repository showcases the projects I completed during my internship at CODSOFT. I worked on three impactful projects: Titanic Survival Prediction, Movie Rating Prediction with Python, and Iris Flower Classification. Each project encompassed a range of tasks such as data analysis, visualization, prediction, preprocessing, and more. Below is a comprehensive overview of each project and the tasks I undertook.
 
 ## Project 1: Titanic Survival Prediction
 
@@ -32,7 +32,7 @@ This project aimed to predict movie ratings based on various features using Pyth
 - Exploratory Data Analysis: Created visualizations to understand the distribution of ratings, budgets, and other relevant features.
 - Feature Selection: Identified pivotal features influencing movie ratings.
 - Model Building: Implemented regression models such as Linear Regression and Random Forest Regression.
-- Model Training and Evaluation: Partitioned the data, trained the models, and evaluated their performance using metrics such as Mean Squared Error (MSE) and R-squared.
+- Model Training and Evaluation: Partitioned the data, training the models, and evaluated their performance using metrics such as Mean Squared Error (MSE) and R-squared.
 - Optional: Model Deployment - Deployed the trained model as a simple web application or API for rating predictions.
 
 ## Project 3: Iris Flower Classification Project
